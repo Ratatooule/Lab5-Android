@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Лаб5</string>
+    <string name="sum">Сумма</string>
+    <string name="answer">Ответ</string>
+    <string name="firstNumber">Введите первое число</string>
+    <string name="secondNumber">Введите второе число</string>
+    <string name="changeColor">Изменить цвет</string>
+    <string name="nextActivity">Следующая активность</string>
+    <string name="nextFragment">Следующий фрагмент</string>
+    <string name="thirdFragment">Третий фрагмент</string>
+    <string name="list_activity">Список расчетов</string>
+
+    <string name="open_browser_call_activity">Открыть активити браузера</string>>
+    <string name="open_service_activity">Открыть активити сервиса</string>
+    <string name="open_browser">Открыть браузер</string>
+    <string name="start_service">Запустить сервис</string>
+    <string name="stop_service">Остановить сервис</string>
+    <string name="result">Результат %d</string>
+    <string name="service_started">Старт сервиса</string>
+    <string name="service_stopped">Остановка сервиса</string>
+</resources>
